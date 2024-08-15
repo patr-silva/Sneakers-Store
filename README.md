@@ -1,7 +1,7 @@
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
-<h3 align="center">Sneakers Store</h3>
+<h1 align="center">Sneakers Store</h1>
 <p align="center">React-based sneaker store simulation with Tailwind CSS for sleek, responsive design.</p>
 </div>
 
