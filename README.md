@@ -1,7 +1,69 @@
-<h1 align="center">Sneakers Store</h1>
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+<h3 align="center">Sneakers Store</h3>
+<p align="center">React-based sneaker store simulation with Tailwind CSS for sleek, responsive design.</p>
+</div>
 
-> Website concept for a sneakers store.
->
+
+
+<!-- TABLE OF CONTENTS -->
+<details>
+  <summary>Table of Contents</summary>
+  <ol>
+    <li>
+      <a href="#about-the-project">About The Project</a>
+      <ul>
+        <li><a href="#built-with">Built With</a></li>
+      </ul>
+    </li>
+    <li>
+      <a href="#getting-started">Getting Started</a>
+      <ul>
+        <li><a href="#installation">Installation</a></li>
+      </ul>
+    </li>
+    <li><a href=“#screenshots”>Screenshots</a></li>
+  </ol>
+</details>
+
+
+
+<!-- ABOUT THE PROJECT -->
+## About The Project
+
+This project is a static webpage showcasing a simulated sneaker store, designed and developed using React and Tailwind CSS. It was meant to practice my ability to create responsive user interfaces through effective component-based architecture and CSS framework implementation. The webpage highlights key features of a sneaker store, including product displays, store information, and a clean, modern aesthetic.
+
+### Built With
+
+*  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)
+*  ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E)
+*  ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white)
+*  ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=plastic&logo=css3&logoColor=white)
+*  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white)
+
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+
+<!-- GETTING STARTED -->
+
+### Installation
+
+1. Clone the repository
+   ```sh
+   git clone https://github.com/patr-silva/Sneakers-Store.git
+   ```
+2. Install NPM packages
+   ```sh
+   npm install
+   ```
+3. Run the app 
+      ```sh
+   npm run dev
+   ```
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
+
+<!-- USAGE EXAMPLES -->
+## Screenshots
 
 <div>
 <img width="440" alt="Home" src="https://github.com/user-attachments/assets/51320865-69e4-424f-89b4-cf6d51f78617">
@@ -9,23 +71,7 @@
 <img width="440" alt="Special Offers" src="https://github.com/user-attachments/assets/5a2041e8-1af9-4890-8126-b5cc1c25d251">
 </div>
 
-<p>
-  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
-  <a href="#" target="_blank">
-    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
-  </a>
-</p>
-
-## Tech Stack
-
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB)  ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) 
+<p align="right">(<a href="#readme-top">Back to top</a>)</p>
 
 
-## Author
 
-👤 **Patricia Silva**
-
-* LinkedIn: [@patr-silva](https://linkedin.com/in/patr-silva)
-
-***
-_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
