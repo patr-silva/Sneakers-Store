@@ -5,8 +5,6 @@
 <p align="center">React-based sneaker store simulation with Tailwind CSS for sleek, responsive design.</p>
 </div>
 
-
-
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
@@ -27,12 +25,10 @@
   </ol>
 </details>
 
-
-
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This project is a static webpage showcasing a simulated sneaker store, designed and developed using React and Tailwind CSS. It was meant to practice my ability to create responsive user interfaces through effective component-based architecture and CSS framework implementation. The webpage highlights key features of a sneaker store, including product displays, store information, and a clean, modern aesthetic.
+This project is a static webpage showcasing a simulated sneaker store, designed and developed using React and Tailwind CSS. My goal with this project was to practice my skills using modern web development technologies. The webpage highlights key features of a sneaker store, including product displays, store information, and a clean, modern aesthetic.
 
 ### Built With
 
