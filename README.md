@@ -16,11 +16,17 @@
 <h1 id="introduction">Introduction</h1>
 <h2 id="about">About the project</h2>
 
-This project is a static webpage showcasing a simulated sneaker store, designed and developed using React and Tailwind CSS. My goal with this project was to practice my skills using modern web development technologies. The webpage highlights key features of a sneaker store, including product displays, store information, and a clean, modern aesthetic.
+This project is a static webpage showcasing a simulated sneaker store, designed and developed using React and Tailwind CSS. 
+
+The webpage highlights key features of a sneaker store, including product displays, store information, and a clean, modern aesthetic.
 
 <h2 id="goals">Goals and objectives</h2>
 
-My goal with this project was to practice my skills using modern web development technologies.
+This project is a React-based page for a fictional sneakers store, designed as a practice exercise to refine my skills in styling a React application using Tailwind CSS.
+
+The page showcases the store's best-selling sneakers and features a section dedicated to upcoming releases. While it's not a fully functional e-commerce site, it intends to improve my ability to create a visually appealing and engaging user experience with React and Tailwind CSS.
+
+A key focus of this project was to incorporate animations and interactive elements that come alive as you scroll through the page. These enhancements aim to create a dynamic and immersive browsing experience.
 
 <h2 id="built">Built with</h2>
 
